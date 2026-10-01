@@ -1,0 +1,377 @@
+{
+  "LakshmiSundram": {
+    "7th Grade - Science": [
+      {
+        "quiz_type": "check-in",
+        "date": "2026-09-22T18:43:31.281318",
+        "score_pct": 66.7,
+        "correct": 2,
+        "total": 3,
+        "questions": [
+          {
+            "question": "What color do you get mixing blue and yellow?",
+            "topic": "General Knowledge",
+            "correct_answer": "Green",
+            "chosen_answer": "Green",
+            "was_correct": true
+          },
+          {
+            "question": "How many days are in a leap year?",
+            "topic": "General Knowledge",
+            "correct_answer": "366",
+            "chosen_answer": "364",
+            "was_correct": false
+          },
+          {
+            "question": "What is the capital of the United States?",
+            "topic": "General Knowledge",
+            "correct_answer": "Washington D.C.",
+            "chosen_answer": "Washington D.C.",
+            "was_correct": true
+          }
+        ]
+      }
+    ],
+    "IB Biology": [
+      {
+        "quiz_type": "check-in",
+        "date": "2026-09-22T18:44:59.889235",
+        "score_pct": 100.0,
+        "correct": 3,
+        "total": 3,
+        "questions": [
+          {
+            "question": "What is the capital of the United States?",
+            "topic": "General Knowledge",
+            "correct_answer": "Washington D.C.",
+            "chosen_answer": "Washington D.C.",
+            "was_correct": true
+          },
+          {
+            "question": "What color do you get mixing blue and yellow?",
+            "topic": "General Knowledge",
+            "correct_answer": "Green",
+            "chosen_answer": "Green",
+            "was_correct": true
+          },
+          {
+            "question": "How many days are in a leap year?",
+            "topic": "General Knowledge",
+            "correct_answer": "366",
+            "chosen_answer": "366",
+            "was_correct": true
+          }
+        ]
+      },
+      {
+        "quiz_type": "check-out",
+        "date": "2026-09-22T18:45:26.811003",
+        "score_pct": 100.0,
+        "correct": 3,
+        "total": 3,
+        "questions": [
+          {
+            "question": "How many days are in a leap year?",
+            "topic": "General Knowledge",
+            "correct_answer": "366",
+            "chosen_answer": "366",
+            "was_correct": true
+          },
+          {
+            "question": "What color do you get mixing blue and yellow?",
+            "topic": "General Knowledge",
+            "correct_answer": "Green",
+            "chosen_answer": "Green",
+            "was_correct": true
+          },
+          {
+            "question": "What is the capital of the United States?",
+            "topic": "General Knowledge",
+            "correct_answer": "Washington D.C.",
+            "chosen_answer": "Washington D.C.",
+            "was_correct": true
+          }
+        ]
+      },
+      {
+        "quiz_type": "check-in",
+        "date": "2026-09-23T18:19:00.823651",
+        "score_pct": 40.0,
+        "correct": 2,
+        "total": 5,
+        "questions": [
+          {
+            "question": "Which of these are the four conceptual themes in the IB Biology syllabus (first exams 2025)?",
+            "topic": "IB Biology Syllabus Structure",
+            "correct_answer": "Molecules, Cells, Organisms, Ecosystems",
+            "chosen_answer": "Molecules, Cells, Organisms, Ecosystems",
+            "was_correct": true
+          },
+          {
+            "question": "In Molecular Biology, what type of biomolecule are enzymes primarily made of?",
+            "topic": "Molecular Biology",
+            "correct_answer": "Proteins",
+            "chosen_answer": "Lipids",
+            "was_correct": false
+          },
+          {
+            "question": "In Physiology, which organ is the primary site of gas exchange in humans?",
+            "topic": "Physiology",
+            "correct_answer": "Lungs",
+            "chosen_answer": "Lungs",
+            "was_correct": true
+          },
+          {
+            "question": "In Evolution & Biodiversity, what is the process by which populations change over generations due to differential survival and reproduction?",
+            "topic": "Evolution & Biodiversity",
+            "correct_answer": "Natural selection",
+            "chosen_answer": "Homeostasis",
+            "was_correct": false
+          },
+          {
+            "question": "In Ecology, what term describes the flow of energy from one trophic level to the next?",
+            "topic": "Ecology",
+            "correct_answer": "Energy transfer",
+            "chosen_answer": "Mitosis",
+            "was_correct": false
+          }
+        ]
+      },
+      {
+        "quiz_type": "check-in",
+        "date": "2026-09-24T18:14:28.315334",
+        "score_pct": 16.7,
+        "correct": 1,
+        "total": 6,
+        "questions": [
+          {
+            "question": "In Ecology, what term describes the flow of energy from one trophic level to the next?",
+            "topic": "Ecology",
+            "correct_answer": "Energy transfer",
+            "chosen_answer": "Diffusion",
+            "was_correct": false
+          },
+          {
+            "question": "In Genetics, what process copies DNA before cell division?",
+            "topic": "Genetics",
+            "correct_answer": "DNA replication",
+            "chosen_answer": "Transcription",
+            "was_correct": false
+          },
+          {
+            "question": "In Evolution & Biodiversity, what is the process by which populations change over generations due to differential survival and reproduction?",
+            "topic": "Evolution & Biodiversity",
+            "correct_answer": "Natural selection",
+            "chosen_answer": "Photosynthesis",
+            "was_correct": false
+          },
+          {
+            "question": "In Cell Biology, what structure controls what enters and exits a cell?",
+            "topic": "Cell Biology",
+            "correct_answer": "Plasma membrane",
+            "chosen_answer": "Ribosome",
+            "was_correct": false
+          },
+          {
+            "question": "Compared to SL, what does HL extension content in IB Biology typically add?",
+            "topic": "IB Biology Syllabus Structure",
+            "correct_answer": "Additional depth and integrated extension areas",
+            "chosen_answer": "No difference at all",
+            "was_correct": false
+          },
+          {
+            "question": "Which of these are the four conceptual themes in the IB Biology syllabus (first exams 2025)?",
+            "topic": "IB Biology Syllabus Structure",
+            "correct_answer": "Molecules, Cells, Organisms, Ecosystems",
+            "chosen_answer": "Molecules, Cells, Organisms, Ecosystems",
+            "was_correct": true
+          }
+        ]
+      }
+    ],
+    "Band music": [
+      {
+        "quiz_type": "check-in",
+        "date": "2026-09-24T18:15:51.652034",
+        "score_pct": 66.7,
+        "correct": 2,
+        "total": 3,
+        "questions": [
+          {
+            "question": "Which of these is a double-reed woodwind instrument commonly found in concert band?",
+            "topic": "Band - Instrument Families",
+            "correct_answer": "Oboe",
+            "chosen_answer": "Oboe",
+            "was_correct": true
+          },
+          {
+            "question": "The person who leads a band, setting tempo and cueing entrances, is called the:",
+            "topic": "Band - Ensemble Roles",
+            "correct_answer": "Conductor",
+            "chosen_answer": "Conductor",
+            "was_correct": true
+          },
+          {
+            "question": "The percussion instrument that keeps a steady beat and is often central to a marching band's rhythm section is the:",
+            "topic": "Band - Percussion",
+            "correct_answer": "Snare drum",
+            "chosen_answer": "Cymbals",
+            "was_correct": false
+          }
+        ]
+      },
+      {
+        "quiz_type": "check-out",
+        "date": "2026-09-24T18:16:21.023271",
+        "score_pct": 100.0,
+        "correct": 3,
+        "total": 3,
+        "questions": [
+          {
+            "question": "In a concert band, the mouthpiece technique and lip position used to produce sound on a brass or woodwind instrument is called:",
+            "topic": "Band - Technique",
+            "correct_answer": "Embouchure",
+            "chosen_answer": "Embouchure",
+            "was_correct": true
+          },
+          {
+            "question": "In band music, playing notes smoothly connected without separation is called:",
+            "topic": "Band - Articulation",
+            "correct_answer": "Legato",
+            "chosen_answer": "Legato",
+            "was_correct": true
+          },
+          {
+            "question": "Which of the following instruments belongs to the brass family?",
+            "topic": "Band - Instrument Families",
+            "correct_answer": "Trumpet",
+            "chosen_answer": "Trumpet",
+            "was_correct": true
+          }
+        ]
+      }
+    ],
+    "Computer science": [
+      {
+        "quiz_type": "check-in",
+        "date": "2026-09-24T18:40:58.890536",
+        "score_pct": 100.0,
+        "correct": 6,
+        "total": 6,
+        "questions": [
+          {
+            "question": "Big-O notation is used to describe an algorithm's:",
+            "topic": "Algorithm Efficiency",
+            "correct_answer": "Time or space complexity (efficiency)",
+            "chosen_answer": "Time or space complexity (efficiency)",
+            "was_correct": true
+          },
+          {
+            "question": "What does CPU stand for?",
+            "topic": "Computer Hardware",
+            "correct_answer": "Central Processing Unit",
+            "chosen_answer": "Central Processing Unit",
+            "was_correct": true
+          },
+          {
+            "question": "What does an algorithm describe?",
+            "topic": "Algorithms",
+            "correct_answer": "A step-by-step procedure for solving a problem",
+            "chosen_answer": "A step-by-step procedure for solving a problem",
+            "was_correct": true
+          },
+          {
+            "question": "What is the decimal value of the binary number 1011?",
+            "topic": "Binary Numbers",
+            "correct_answer": "11",
+            "chosen_answer": "11",
+            "was_correct": true
+          },
+          {
+            "question": "A loop that repeats a specific number of times is typically called a:",
+            "topic": "Control Structures",
+            "correct_answer": "For loop",
+            "chosen_answer": "For loop",
+            "was_correct": true
+          },
+          {
+            "question": "Which logical operator returns true only if both conditions are true?",
+            "topic": "Boolean Logic",
+            "correct_answer": "AND",
+            "chosen_answer": "AND",
+            "was_correct": true
+          }
+        ]
+      }
+    ]
+  },
+  "Teacher101": {
+    "Pre school and below": [
+      {
+        "quiz_type": "check-in",
+        "date": "2026-09-24T18:44:06.503061",
+        "score_pct": 100.0,
+        "correct": 8,
+        "total": 8,
+        "questions": [
+          {
+            "question": "What sound does a cow make?",
+            "topic": "Animal Sounds",
+            "correct_answer": "Moo",
+            "chosen_answer": "Moo",
+            "was_correct": true
+          },
+          {
+            "question": "What color is the sky on a clear day?",
+            "topic": "Colors",
+            "correct_answer": "Blue",
+            "chosen_answer": "Blue",
+            "was_correct": true
+          },
+          {
+            "question": "How many fingers are on one hand?",
+            "topic": "Counting",
+            "correct_answer": "5",
+            "chosen_answer": "5",
+            "was_correct": true
+          },
+          {
+            "question": "Which color is a banana?",
+            "topic": "Colors",
+            "correct_answer": "Yellow",
+            "chosen_answer": "Yellow",
+            "was_correct": true
+          },
+          {
+            "question": "Which shape has three sides?",
+            "topic": "Shapes",
+            "correct_answer": "Triangle",
+            "chosen_answer": "Triangle",
+            "was_correct": true
+          },
+          {
+            "question": "Which one is bigger?",
+            "topic": "Size Comparison",
+            "correct_answer": "An elephant",
+            "chosen_answer": "An elephant",
+            "was_correct": true
+          },
+          {
+            "question": "What body part do you use to see?",
+            "topic": "Body Parts",
+            "correct_answer": "Eyes",
+            "chosen_answer": "Eyes",
+            "was_correct": true
+          },
+          {
+            "question": "Which number comes after 2?",
+            "topic": "Counting",
+            "correct_answer": "3",
+            "chosen_answer": "3",
+            "was_correct": true
+          }
+        ]
+      }
+    ]
+  }
+}

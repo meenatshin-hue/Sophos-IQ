@@ -1,0 +1,37 @@
+{
+  "LakshmiSundram": {
+    "account_type": "Student",
+    "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "school_district": "Frisco Independent School District",
+    "grade_level": "7th Grade",
+    "location": "Frisco, Texas",
+    "email": "lakshmisundram04@gmail.com",
+    "profile_picture": null,
+    "current_course": "Computer science",
+    "progress": {},
+    "courses_taken": [
+      "Computer science",
+      "IB Biology",
+      "Band music"
+    ]
+  },
+  "Teacher101": {
+    "account_type": "Administrator",
+    "password_hash": "16dc368a89b428b2485484313ba67a3912ca03f2b2b42429174a4f8b3dc84e44",
+    "school_district": "Frisco Independent School District",
+    "grade_level": "SAT Prep",
+    "location": "",
+    "email": "meenatshin@gmail.com",
+    "profile_picture": null,
+    "current_course": "Learning to read",
+    "courses_taken": [
+      "Learning to read",
+      "Pre school and below"
+    ],
+    "progress": {},
+    "date_joined": "2026-09-22",
+    "display_name": "Teacher101",
+    "bio": "",
+    "hobbies": ""
+  }
+}
